@@ -1,7 +1,7 @@
 ## Explorando o mundo da programação 😁
 
 <p align="center">
-  <a href="https://github.com/LudmilaBGomes/LudmilaBGomes/#readme"><img src="https://github.com/alexandresanlim/Badges4-README.md-Profile/blob/main/vendor/assets/img/fireworks.png" alt="Foguetinho" width="80" height="80"/></a>
+  <a href="https://github.com/LudmilaBGomes/LudmilaBGomes#readme"><img src="https://github.com/alexandresanlim/Badges4-README.md-Profile/blob/main/vendor/assets/img/fireworks.png" alt="Foguetinho" width="80" height="80"/></a>
 </p>
 
 
